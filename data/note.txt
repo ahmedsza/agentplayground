@@ -1,0 +1,2 @@
+PUT YOUR DATA FILES IN THIS FOLDER
+Where relevant in code enter the path to PDF in this folder
